@@ -1,0 +1,369 @@
+{
+  "main": {
+    "id": "15daad8edec55059",
+    "type": "split",
+    "children": [
+      {
+        "id": "fa6c6627d930aaa8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0f3a3053de6d4014",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "places/readme.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "readme"
+            }
+          },
+          {
+            "id": "e1ddd19d4da3ba70",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "fouthwall/naughty level.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "naughty level"
+            }
+          },
+          {
+            "id": "67f053dda81daff4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "characters/friend 1.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "friend 1"
+            }
+          },
+          {
+            "id": "8ed3e233f2bcc1f2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "characters/friend 1.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "friend 1"
+            }
+          },
+          {
+            "id": "ce094bd5913b9f56",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "characters/friend 2.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "friend 2"
+            }
+          },
+          {
+            "id": "f4dfe154eb19a6bc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "characters/pichi lanjoduku.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "pichi lanjoduku"
+            }
+          },
+          {
+            "id": "b78da83261477722",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "characters/pet sir.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "pet sir"
+            }
+          },
+          {
+            "id": "6cf2a2fe7a660f68",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "characters/principal.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "principal"
+            }
+          },
+          {
+            "id": "d1c3e686b706bfd7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "scenes/readme.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "readme"
+            }
+          },
+          {
+            "id": "af16327602ad8ba9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "things/special capabilities/fart cloud.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "fart cloud"
+            }
+          },
+          {
+            "id": "24a6a3c279258694",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "things/special capabilities/poop bullets.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "poop bullets"
+            }
+          },
+          {
+            "id": "dac97852074a4de2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "timeline/readme.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "readme"
+            }
+          },
+          {
+            "id": "4ed39e721f03c1f5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "timeline/readme.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "readme"
+            }
+          }
+        ],
+        "currentTab": 12
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "f059605780c3848a",
+    "type": "split",
+    "children": [
+      {
+        "id": "c067407c34e4b403",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a6a831d6633dc60f",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "e913f83fb43c9b2d",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "fartman's",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "fd7815ec8d771a59",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "071ad57a669490a7",
+    "type": "split",
+    "children": [
+      {
+        "id": "645128839c93d7d4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "47d824b96ce79e36",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "timeline/readme.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for readme"
+            }
+          },
+          {
+            "id": "146e10975ef801be",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "timeline/readme.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from readme"
+            }
+          },
+          {
+            "id": "2244cc2f61017ed3",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "c7951928c24a185d",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "timeline/readme.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of readme"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "4ed39e721f03c1f5",
+  "lastOpenFiles": [
+    "characters/girlfriend?.md",
+    "timeline/readme.md",
+    "readme.md",
+    "fouthwall/suspicion bar.md",
+    "fouthwall/naughty level.md",
+    "things/special capabilities/poop bullets.md",
+    "things/special capabilities/fart cloud.md",
+    "rules/readme.md",
+    "things/special capabilities",
+    "fouthwall/capabilities bar.md",
+    "places/readme.md",
+    "places/varanda??.md",
+    "characters/principal.md",
+    "scenes/readme.md",
+    "things/readme.md",
+    "places/classroom.md",
+    "characters/fartman.md",
+    "characters/friend 1.md",
+    "characters/friend 2.md",
+    "characters/readme.md",
+    "characters/pichi lanjoduku.md",
+    "characters/parent.md",
+    "characters/pet sir.md",
+    "media/cartman.png",
+    "media",
+    "actions/readme.md"
+  ]
+}

@@ -1,0 +1,2 @@
+- it only exist when naughty not exist
+- when full, it naughty = 0 + 1

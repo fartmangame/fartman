@@ -1,0 +1,1 @@
+- when full, unlocks special powers like mega fart cloud ( smoke bomb, can be used to evade chases )
