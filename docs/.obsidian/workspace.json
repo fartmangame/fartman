@@ -181,16 +181,28 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "timeline/readme.md",
+                "file": "readme.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
               "title": "readme"
             }
+          },
+          {
+            "id": "b90c3b55345235ca",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/classroom.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "classroom.excalidraw"
+            }
           }
         ],
-        "currentTab": 12
+        "currentTab": 13
       }
     ],
     "direction": "vertical"
@@ -247,7 +259,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "071ad57a669490a7",
@@ -334,14 +347,18 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "4ed39e721f03c1f5",
+  "active": "b90c3b55345235ca",
   "lastOpenFiles": [
-    "characters/girlfriend?.md",
-    "timeline/readme.md",
     "readme.md",
+    "Excalidraw/classroom.excalidraw.md",
+    "Excalidraw",
+    "characters/friend 1.md",
+    "timeline/readme.md",
+    "characters/girlfriend?.md",
     "fouthwall/suspicion bar.md",
     "fouthwall/naughty level.md",
     "things/special capabilities/poop bullets.md",
@@ -356,7 +373,6 @@
     "things/readme.md",
     "places/classroom.md",
     "characters/fartman.md",
-    "characters/friend 1.md",
     "characters/friend 2.md",
     "characters/readme.md",
     "characters/pichi lanjoduku.md",

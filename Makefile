@@ -17,6 +17,7 @@ all: build
 build:
 	@echo "building fartman ($(BUILD_TYPE))"
 	@mkdir -p $(BUILD_DIR)
+	@cmake -S . -G "Unix Makefiles" -B $(BUILD_DIR)
 	@cmake -B $(BUILD_DIR) -DCMAKE_BUILD_TYPE=$(BUILD_TYPE) -DCMAKE_CXX_STANDARD=17
 	@cmake --build $(BUILD_DIR) -j $(NPROC)
 	@echo "build complete!"

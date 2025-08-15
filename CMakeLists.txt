@@ -4,6 +4,8 @@ project(fartman CXX)
 set(CMAKE_CXX_STANDARD 17)
 set(CMAKE_CXX_STANDARD_REQUIRED ON)
 
+set(CMAKE_EXPORT_COMPILE_COMMANDS ON)
+
 # Enable testing
 enable_testing()
 
@@ -20,4 +22,10 @@ add_executable(fartman src/main.cpp)
 target_link_libraries(fartman
     PRIVATE
     SDL3::SDL3
+    SDL3_image::SDL3_image 
+    SDL3_mixer::SDL3_mixer 
+)
+
+target_include_directories(my_app PRIVATE
+    ${CMAKE_SOURCE_DIR}/external/glm
 )
