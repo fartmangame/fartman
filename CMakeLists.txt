@@ -26,6 +26,6 @@ target_link_libraries(fartman
     SDL3_mixer::SDL3_mixer 
 )
 
-target_include_directories(my_app PRIVATE
+target_include_directories(fartman PRIVATE
     ${CMAKE_SOURCE_DIR}/external/glm
 )
