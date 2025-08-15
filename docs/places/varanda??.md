@@ -1,2 +1,0 @@
-- is used to move between places
-- this is where most of mini games take place, i presume
